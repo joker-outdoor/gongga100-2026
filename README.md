@@ -10,10 +10,10 @@ FUGA 贡嘎100 冰川极境赛 100K / 60K / 40K 三条赛道的交互式 3D 对�
 
 里程与关门时间以赛事官方公布为准。
 
-## 下载素材归档
+## 视频与原始素材
 
-- 视频成片：[原版](videos/gongga100-original.mp4)、[小红书版](videos/gongga100-xiaohongshu.mp4)，两者同为竖屏 1080×1920、46 秒。
-- 原始 GPX：[100K](materials/100Km.gpx)、[60K](materials/60Km.gpx)、[40K](materials/40Km.gpx)。
-- [materials/](materials/) 保存原始 GPX、JPEG 图片与文案，其中 [Claude outputs/](<materials/Claude outputs/>) 和 [小红书素材/](<materials/小红书素材/>) 内的图片及[小红书文案](<materials/小红书素材/小红书文案.md>)均为原有产物的归档，本次未重新生成。
+- 赛道视频：[原版](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/gongga100-original.mp4)、[小红书版](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/gongga100-xiaohongshu.mp4)。两版均为竖屏 1080×1920、46 秒。
+- 原始 GPX：[100K](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/100Km.gpx)、[60K](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/60Km.gpx)、[40K](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/40Km.gpx)。
+- [完整素材包](https://github.com/joker-outdoor/gongga100-2026/releases/download/materials-2026-10-03/gongga100-materials-2026-10-03.zip)：保留下载文件夹全部 26 个文件及原有目录结构，包含 GPX、图片、两版视频、文案和原始 HTML。
 
-原下载 HTML 与仓库的 [index.html](index.html) 相同，复用该文件。视频文件为既有成片，本次归档不包含视频渲染源码。
+以上为既有产物的无损归档，保存于 [GitHub Release](https://github.com/joker-outdoor/gongga100-2026/releases/tag/materials-2026-10-03)，本次未重新生成；视频渲染源码未包含在原素材中。
